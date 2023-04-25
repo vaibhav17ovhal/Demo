@@ -6,8 +6,14 @@ namespace Demo
     {
         static void Main(string[] args)
         {
-            Example example = new Example();
-            example.Add();
+            //Example example = new Example();
+            //example.Add();
+
+            //FlipCoin.DisplayPercentage();
+            //LeapYear.CheckingLeapYear();
+            //PowerOfTwo.DisplayPowerResult();
+            //HarmonicNumber.Harmonic();
+            Factors.PrimeFactors();
         }
     }
 }
